@@ -4,6 +4,7 @@
   echo "actually ,Loen is a boy<br>";
 
   echo "ha,ha,ha and  ji,ji,ji";
-  
+  echo "Loen can fly";
+  `
 
 
