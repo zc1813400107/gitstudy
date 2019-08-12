@@ -2,5 +2,5 @@
   echo "Loen is a Girl<br>";
   echo "Leon is Beatiful<br>";
   echo "actually ,Loen is a boy<br>";
-  echo "hei,hei,hei";
+  echo "ha,ha,ha";
 
