@@ -5,5 +5,5 @@
 
   echo "ha,ha,ha and  ji,ji,ji";
   
-
+ echo"Loen is stupid";
 
